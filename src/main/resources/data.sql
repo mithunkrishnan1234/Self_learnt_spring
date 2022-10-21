@@ -1,8 +1,4 @@
 insert into user_details(id,name,age) values (1,'Mithun',21)
-insert into user_details(id,name,age) values (2,'Mani',20)
-insert into user_details(id,name,age) values (3,'Nikhil',32)
-insert into user_details(id,name,age) values (4,'Ravi',23)
+
 insert into post(id,message,user_id) values (11,'C',1)
-insert into post(id,message,user_id) values (12,'Java',2)
-insert into post(id,message,user_id) values (13,'Python',3)
-insert into post(id,message,user_id) values (14,'Go Lang',4)
+
